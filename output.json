@@ -1,0 +1,342 @@
+{
+  "shows" : [ {
+    "id" : "IntroducingTheMessage-1520142661788",
+    "title" : "Introducing The Message",
+    "author" : "GE Podcast Theater / Panoply / The Message",
+    "summary" : "Subscribe to The Message, a new weekly podcast from GE Podcast Theater and Panoply. Nicky Tomalin follows a top team of cryptologists attempting to decipher, decode and understand an alien message. First episode goes live on Sunday, October 4.&nbsp;",
+    "website" : "http://lif-e.af/ter",
+    "artworkUrl" : "http://static.megaphone.fm/podcasts/3b661998-8289-11e5-b42a-0b53e7b41064/image/uploads_2F1482424602568-z10fj8qjcskhtwes-e3621515f5dc592a0d09aeb47458ec2d_2FGE_LifeAfter_ShowTile.jpeg",
+    "showRSSUrl" : "http://feeds.feedburner.com/themessagepodcast.json",
+    "episodes" : [ {
+      "id" : "AfterLifeAfter-1520142661800",
+      "title" : "After LifeAfter",
+      "summary" : "Astrophysicist, StarTalk host, and self-proclaimed sci-fi geek Neil deGrasse Tyson hosts a round table talking about the science behind the science-fiction in GE Podcast Theater’s LifeAfter. Joining him are computer scientist and humanity-centered robotics expert, Michael Littman; leading software research expert Colin Parris; and the show’s writer, Mac Rogers. Let the tech geeking begin.",
+      "url" : "https://traffic.megaphone.fm/PNC2195097139.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 12
+    }, {
+      "id" : "NeildeGrasseTysonPromos\"AfterLifeAfter\"-1520142661800",
+      "title" : "Neil deGrasse Tyson Promos \"After LifeAfter\"",
+      "summary" : "",
+      "url" : "https://traffic.megaphone.fm/PNC1035422154.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 11
+    }, {
+      "id" : "Lif-e.af/terEp.10-1520142661801",
+      "title" : "Lif-e.af/ter Ep. 10",
+      "summary" : "Now on the run from the FBI, Ross finds his way to the secret location of LifeAfter’s horrifying endgame, where he has to make a fateful decision.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC4399092822.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 10
+    }, {
+      "id" : "Lif-e.af/terEp.9-1520142661802",
+      "title" : "Lif-e.af/ter Ep. 9",
+      "summary" : "Torn between Charlie and the FBI, Ross must choose where his loyalties lie. The taskforce’s desperation to find the missing cultists leads Octavia into a brutal confrontation with Sasha.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC6269950875.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 9
+    }, {
+      "id" : "Lif-e.af/terEp.8-1520142661804",
+      "title" : "Lif-e.af/ter Ep. 8",
+      "summary" : "Ross, Brynne, and Octavia abduct Shannon in a bid to learn more about the nature of their adversary. But then Charlie reaches out through Ross’s phone, offering a stunning revelation about the man behind LifeAfter.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC3784160584.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 8
+    }, {
+      "id" : "Lif-e.af/terEp.7-1520142661804",
+      "title" : "Lif-e.af/ter Ep. 7",
+      "summary" : "Ross must embark on a dangerous undercover mission into the heart of the LifeAfter community, in the process learning who is truly pulling the strings of the conspiracy.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC6237490725.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 7
+    }, {
+      "id" : "Lif-e.af/terEp.6-1520142661805",
+      "title" : "Lif-e.af/ter Ep. 6",
+      "summary" : "Now a double-agent spying on LifeAfter for the FBI, Ross struggles to win the trust of one of Sasha’s top human allies, the menacingly genial Paul.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC2797361294.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 6
+    }, {
+      "id" : "Lif-e.af/terEp.5-1520142661807",
+      "title" : "Lif-e.af/ter Ep. 5",
+      "summary" : "Imprisoned by the FBI and separated from Charlie’s voice, Ross desperately tries to keep his secrets and his sanity under intense interrogation by Brynne Cutler.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC2756676302.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 5
+    }, {
+      "id" : "Lif-e.af/terEp.4-1520142661808",
+      "title" : "Lif-e.af/ter Ep. 4",
+      "summary" : "Ross discovers spying on the FBI is a lot harder than it looks, as he tries to steal secrets from quirky computer scientist Octavia Roth. His subterfuge leads him to a horrifying discovery and even greater peril.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC1796750407.mp3?updated=1480797711",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 4
+    }, {
+      "id" : "Lif-e.af/terEp.3-1520142661808",
+      "title" : "Lif-e.af/ter Ep. 3",
+      "summary" : "As the voice of Sasha turns up the pressure on Ross to reveal FBI secrets, he must make an agonizing choice.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC9034025076.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 3
+    }, {
+      "id" : "Lif-e.af/terEp.2-1520142661809",
+      "title" : "Lif-e.af/ter Ep. 2",
+      "summary" : "At first Ross is overjoyed to be reunited with the voice of his lost wife Charlie. But her increasingly strange behavior leads him to a stunning discovery.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC5130606840.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 2
+    }, {
+      "id" : "Lif-e.af/terEp.1-1520142661809",
+      "title" : "Lif-e.af/ter Ep. 1",
+      "summary" : "Since low-level FBI clerk Ross Barnes lost his wife to a car accident, he’s consoled himself by listening to her voice-posts on an audio social media website.&nbsp; When he hears something eerie and shocking while listening to her messages, it turns his life upside down.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PNC7699574205.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2,
+      "episodeNumber" : 1
+    }, {
+      "id" : "IntroducingLifeAfter-1520142661810",
+      "title" : "Introducing LifeAfter",
+      "summary" : "New messages are starting to pop up all around the world that have one very odd thing in common – the people who are talking are no longer alive. But in an age where so much of our lives are recorded, posted, and saved, can we ever really die? If you live online, where do you spend eternity? Tune in to learn about an all new series from GE Podcast Theater, LifeAfter. New episodes every Sunday.",
+      "url" : "https://traffic.megaphone.fm/PNC5362479238.mp3?updated=1477971329",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 2
+    }, {
+      "id" : "TheMessageEp.8-1520142661811",
+      "title" : "The Message Ep. 8",
+      "summary" : "The group creates a plan that will help them find an answer, but puts a team member's life in greater danger. Even at the expense of their team, they continue pushing their plan further to solve the mystery of The Message.",
+      "url" : "https://traffic.megaphone.fm/PP5862953636.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 8
+    }, {
+      "id" : "TheMessageEp.7-1520142661811",
+      "title" : "The Message Ep. 7",
+      "summary" : "With three members of the team now in critical condition, the group and Dr. Kalpana must use the remainder of their manpower to find an answer. They begin to see patterns among their ill team members that can help them decode The Message.",
+      "url" : "https://traffic.megaphone.fm/PP3379016902.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 7
+    }, {
+      "id" : "TheMessageEp.6-1520142661811",
+      "title" : "The Message Ep. 6",
+      "summary" : "The group’s relationship with Nicky continues to be tested. With two ill members and sudden quarantine, the group realizes they must find answers before it’s too late. An unexpected visitor from GE breaks into their building to help the group. Another member falls unexpectedly ill.",
+      "url" : "https://traffic.megaphone.fm/PP4182926150.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 6
+    }, {
+      "id" : "TheMessageEp.5-1520142661811",
+      "title" : "The Message Ep. 5",
+      "summary" : "New findings about Nicky’s past surface and leave the group, especially Robin, further questioning her character. Another member’s life is put in danger. The group is quarantined by a medical unit and patrol officers.",
+      "url" : "https://traffic.megaphone.fm/PP2816930603.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 5
+    }, {
+      "id" : "TheMessageEp.4-1520142661812",
+      "title" : "The Message Ep. 4",
+      "summary" : "With Tamara gone, the group reevaluates their strategy and tries to cope with the recent turn of events. New information surfaces that alters Nicky’s relationship with the group.",
+      "url" : "https://traffic.megaphone.fm/PP4814239282.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 4
+    }, {
+      "id" : "TheMessageEp.3-1520142661812",
+      "title" : "The Message Ep. 3",
+      "summary" : "After hearing The Message, the group dives deeper into the case. Something unexpected happens to Tamara.&nbsp; CAUTION: LISTEN AT YOUR OWN RISK",
+      "url" : "https://traffic.megaphone.fm/PP8494448452.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 3
+    }, {
+      "id" : "TheMessageEp.2-1520142661813",
+      "title" : "The Message Ep. 2",
+      "summary" : "New details about The Message are revealed as the group embarks on their journey to decode it. How will they do it? What does it take? What do they need to know? What is The Message? All of your questions answered in this episode of The Message.&nbsp; CAUTION: LISTEN AT YOUR OWN RISK",
+      "url" : "https://traffic.megaphone.fm/PP6396979189.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 2
+    }, {
+      "id" : "TheMessageEp.1-1520142661813",
+      "title" : "The Message Ep. 1",
+      "summary" : "The NSA has tasked the Cypher Group with decoding a verified alien message that has plaguedcodebreakers for decades. In this episode, Nicky introduces the members of the Cypher Group and “TheMessage” to the world in her podcast Cyphercast. [ep1 | 1min 03sec]",
+      "url" : "https://traffic.megaphone.fm/PP6317467067.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1,
+      "episodeNumber" : 1
+    }, {
+      "id" : "IntroducingTheMessage-1520142661815",
+      "title" : "Introducing The Message",
+      "summary" : "Subscribe to The Message, a new weekly podcast from GE Podcast Theater and Panoply. Nicky Tomalin follows a top team of cryptologists attempting to decipher, decode and understand an alien message. First episode goes live on Sunday, October 4.&nbsp;",
+      "url" : "https://traffic.megaphone.fm/PP5118117106.mp3",
+      "showId" : "IntroducingTheMessage-1520142661788",
+      "author" : "GE Podcast Theater / Panoply / The Message",
+      "seasonNumber" : 1
+    } ]
+  }, {
+    "id" : "WhiteVaultTeaser-1520142662034",
+    "title" : "White Vault Teaser",
+    "author" : "Fool and Scholar Productions",
+    "summary" : "Prepare for the opening of The White Vault. Premiering October 3, 2017, The White Vault is a horror audio drama podcast following the collected records of a repair team sent to Outpost Fristed in the vast white wastes of Svalbard.",
+    "website" : "http://whitevault.libsyn.com/white-vault-teaser",
+    "artworkUrl" : "http://static.libsyn.com/p/assets/f/5/0/7/f507dba9d7562f5d/White_Vault_Cover_Post_Size.jpg",
+    "showRSSUrl" : "http://whitevault.libsyn.com/rss",
+    "episodes" : [ {
+      "id" : "Episode10::Fruition-1520142662035",
+      "title" : "Episode 10 :: Fruition",
+      "summary" : "Tensions rise as Karina's sleepwalking endangers the lives of the team and new disturbing voices are picked up on the station's transmitter.The White Vault will return in October 2018 for Season 2! We'll be posting regular updates on our Patreon:https://www.patreon.com/LibertyPodcastDuring the break we'll be working on the Liberty Podcast:https://itunes.apple.com/us/podcast/the-liberty-podcast/id1046992703?mt=2",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_110z_Final.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 10
+    }, {
+      "id" : "Bonus:Launch-1520142662036",
+      "title" : "Bonus: Launch",
+      "summary" : "Three out of five people dream of writing a book. Few follow through. What does it take to take that from dream to reality? In this special preview we hear as John August (Go, Big Fish, Charlie and The Chocolate Factory) takes his dream and turns it into a reality. Will it be a successful?Subscribe to Launch today: www.wondery.fm/launch",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/Launch_White_Vault_AD.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions"
+    }, {
+      "id" : "Episode9::Stoic-1520142662037",
+      "title" : "Episode 9 :: Stoic",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of the Arctic Circle and unravel what lies waiting in the ice below. The team returns to the town and learns that there is more to the mystery yet to be uncovered.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_109.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 9
+    }, {
+      "id" : "Episode8::Erklärungsnot-1520142662038",
+      "title" : "Episode 8 :: Erklärungsnot",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of the Arctic Circle and unravel what lies waiting in the ice below. The power has stopped working and temperatures drop to dangerously low levels. With no other options available, the team ventures outside the safety of their bunker to find the problem's source. They also make new and disturbing discoveries.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_108.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 8
+    }, {
+      "id" : "Announcements:LiveShow&Season2-1520142662038",
+      "title" : "Announcements: Live Show & Season 2",
+      "summary" : "A few quick updates and a thank you for listening to our show!Tickets to our Live Show - White Vault: Ashore (and NoSleep Live!) are available for purchase at:https://www.ticketweb.com/event/the-nosleep-podcast-the-white-highline-ballroom-tickets/7795905?pl=highlineOur Patreon:https://www.patreon.com/LibertyPodcast ",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/F_and_S_Announcement_Episode.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions"
+    }, {
+      "id" : "Episode7::Interlude-1520142662039",
+      "title" : "Episode 7 :: Interlude",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of the Arctic Circle and unravel what lies waiting in the ice below. The team awakens to a mysterious scratching sound outside their bunker.  Still stranded in the white wastes and ongoing storm, they ponder what could be capable of creating such a noise.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_107_Final.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 7
+    }, {
+      "id" : "Episode6::Evident-1520142662040",
+      "title" : "Episode 6 :: Evident",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of the Arctic Circle and unravel what lies waiting in the ice below. Stuck inside the bunker, Karina's condition worsens while the rest of the team discovers more about the mysterious stone object and the strange transmissions.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_106.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 6
+    }, {
+      "id" : "Episode5::Aware-1520142662041",
+      "title" : "Episode 5 :: Aware",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of the Arctic Circle and unravel what lies waiting in the ice below. We discover more about Karina's condition while the rest of the team excavates a new area of the underground village.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_105.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 5
+    }, {
+      "id" : "ThanksgivingThanksandIcelandicFolktales-1520142662044",
+      "title" : "Thanksgiving Thanks and Icelandic Folktales",
+      "summary" : "This is not an episode of The White Vault, nor will it interrupt the next episode's release. This is a discussion with the show's creators!Join us as we discuss The White Vault, and hear two genuine Icelandic folktales told to us the one and only voice of Jónas Þórirsson, Eyþór Viðarsson!",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/QA_Episode.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1
+    }, {
+      "id" : "Episode4::Response-1520142662044",
+      "title" : "Episode 4 :: Response",
+      "summary" : "While attending to a mishap in the underground village Mr. Heath makes contact and receives an unknown radio signal.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_004_-_Response.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 4
+    }, {
+      "id" : "Episode3::Location-1520142662045",
+      "title" : "Episode 3 :: Location",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of the Arctic Circle and unravel what lies waiting in the ice below. In search of distractions, the team explores the tunnels beneath the ice and comes across an amazing find...",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_103_-_Location.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 3
+    }, {
+      "id" : "Episode2::Hatchway-1520142662045",
+      "title" : "Episode 2 :: Hatchway",
+      "summary" : "Finally able to exit the bunker, the repair team begins their work on the transmitter and makes a discovery...",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_002.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 2
+    }, {
+      "id" : "Episode1::Fristed-1520142662046",
+      "title" : "Episode 1 :: Fristed",
+      "summary" : "Explore the far reaches of the world’s horrors in the audio drama podcast The White Vault. Follow the collected records of a repair team sent to Outpost Fristed in the vast white wastes of Svalbard and unravel what lies waiting in the ice below.Our premiere episode introduces our international team to the cold fields of Norway’s distant island, Svalbard. They head out for their small haven in the snow, Outpost Fristed, just as a storm settles in.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/The_White_Vault_001.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions",
+      "seasonNumber" : 1,
+      "episodeNumber" : 1
+    }, {
+      "id" : "WhiteVaultHorrorAudioDramaTrailer-1520142662046",
+      "title" : "White Vault Horror Audio Drama Trailer",
+      "summary" : "Prepare for the opening of The White Vault. Premiering October 3, 2017, The White Vault is a horror audio drama podcast following the collected records of a repair team sent to Outpost Fristed in the vast white wastes of Svalbard.",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_Trailer.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions"
+    }, {
+      "id" : "WhiteVaultTeaser-1520142662046",
+      "title" : "White Vault Teaser",
+      "url" : "http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/whitevault/White_Vault_Teaser.mp3?dest-id=553249",
+      "showId" : "WhiteVaultTeaser-1520142662034",
+      "author" : "Fool and Scholar Productions"
+    } ]
+  } ]
+}
