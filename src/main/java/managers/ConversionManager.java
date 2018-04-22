@@ -1,7 +1,6 @@
 package managers;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import exceptions.ParserException;
 import lombok.NonNull;
@@ -9,6 +8,7 @@ import lombok.extern.log4j.Log4j;
 import model.Episode;
 import model.Show;
 import model.Shows;
+import org.json.JSONObject;
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
@@ -39,15 +39,29 @@ public class ConversionManager {
         objectMapper.setSerializationInclusion(JsonInclude.Include.NON_NULL);
     }
 
-    public void convertAll(@NonNull final List<String> urls) throws ParserException {
-        final Shows shows = new Shows();
-        final List<Show> showsList = new ArrayList<>();
-        for (String url : urls) {
-            log.debug("Attempting to parse values from xml url " + url);
-            final Document xml = documentRetriever.downloadXML(url);
-            showsList.add(populateShow(xml, url));
+
+    public String convertAllAndReturnString(@NonNull final List<String> urls) throws ParserException {
+        final Shows shows = convertAll(urls);
+        try {
+             return objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(shows);
+        } catch (IOException e) {
+            log.error("Error converting shows POJO to json string");
+            throw new ParserException(ERROR_SERIALIZING_SHOWS, "Error converting shows POJO to json string");
         }
-        shows.setShows(showsList);
+    }
+
+    public JSONObject convertAllAndReturnJSON(@NonNull final List<String> urls) throws ParserException {
+        final Shows shows = convertAll(urls);
+        try {
+            return new JSONObject(objectMapper.writeValueAsString(shows));
+        } catch (IOException e) {
+            log.error("Error converting shows POJO to json string");
+            throw new ParserException(ERROR_SERIALIZING_SHOWS, "Error converting shows POJO to json string");
+        }
+    }
+
+    public void convertAllAndSaveToFile(@NonNull final List<String> urls) throws ParserException {
+        final Shows shows = convertAll(urls);
         final File resultFile = new File("output.json");
         try {
             objectMapper.writerWithDefaultPrettyPrinter().writeValue(resultFile, shows);
@@ -56,6 +70,20 @@ public class ConversionManager {
             log.error("Error converting shows POJO to json string");
             throw new ParserException(ERROR_SERIALIZING_SHOWS, "Error converting shows POJO to json string");
         }
+    }
+
+    private Shows convertAll(@NonNull final List<String> urls) throws ParserException {
+        final Shows shows = new Shows();
+        final List<Show> showsList = new ArrayList<>();
+        for (String url : urls) {
+            log.debug("Attempting to parse values from xml url " + url);
+            final Document xml = documentRetriever.downloadXML(url);
+            final Show show = populateShow(xml, url);
+            showsList.add(show);
+            log.debug("Successfully parsed show : "+ show.getTitle());
+        }
+        shows.setShows(showsList);
+        return shows;
     }
 
     private Show populateShow(@NonNull final Document xml, @NonNull final String url) throws ParserException{
@@ -156,13 +184,13 @@ public class ConversionManager {
         return episode;
     }
 
-    public static void main(String[] args) throws ParserException{
-        final ConversionManager conversionManager = new ConversionManager();
-        final List<String> urls = new ArrayList<String>();
-        urls.add("http://feeds.feedburner.com/themessagepodcast.json");
-        urls.add("http://whitevault.libsyn.com/rss");
-        conversionManager.convertAll(urls);
-    }
+//    public static void main(String[] args) throws ParserException{
+//        final ConversionManager conversionManager = new ConversionManager();
+//        final List<String> urls = new ArrayList<String>();
+//        urls.add("http://feeds.feedburner.com/themessagepodcast.json");
+//        urls.add("http://whitevault.libsyn.com/rss");
+//        conversionManager.convertAll(urls);
+//    }
 
 
 }
